@@ -13,7 +13,7 @@ import java.util.Stack;
 public class IterativeDeepnning
 {
     private Stack<Integer> stack;
-    public int numberOfNodes;
+    private int numberOfNodes;
     private int depth;
     private int maxDepth;
     private boolean goalFound = false;
